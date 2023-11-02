@@ -111,13 +111,17 @@ Gambar 4.7 Tree 3
 a.	Pada kelas Node, untuk dapat menerima huruf maka harus mengganti tipe data variabel ’data’ dari yang awalnya ’int’ menjadi ’String’.
 
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture19.png?raw=true)
+
 b.	Kemudian pada Metode main, memasukkan nilai node dengan tipe data string sebagai berikut.
  
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture20.png?raw=true)
+
 c.	Selanjutnya pada Metode addEdge dan bfs, memasukkan logika pemrosesan data untuk tipe data String sebagai berikut.
  
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture21.png?raw=true)
+
 d.	Kemudian Run untuk mendapatkan hasil.
+
 Hasil Program
  
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture22.png?raw=true)
