@@ -48,6 +48,7 @@ Berdasarkan hasil di atas, BFS dimulai dari simpul (node) ke-3 (n3). Mari kita l
 Membuat tree seperti pada gambar 4.5 dengan mengubah method static void main, seperti berikut ini.
 
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture2.png?raw=true) 
+
 Gambar 4.5 Tree 1
 
 Codingan
@@ -80,6 +81,7 @@ Oleh karena itu, node 5 akan ditemukan dan diproses sesuai dengan ketentuan algo
 Membuat tree seperti pada gambar 4.6 dengan mengubah method static void main, seperti berikut ini!
 
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture14.png?raw=true) 
+
 Gambar 4.6 Tree 2
 
 Codingan
@@ -112,13 +114,16 @@ a.	Pada kelas Node, untuk dapat menerima huruf maka harus mengganti tipe data va
 
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture19.png?raw=true)
 
+
 b.	Kemudian pada Metode main, memasukkan nilai node dengan tipe data string sebagai berikut.
  
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture20.png?raw=true)
 
+
 c.	Selanjutnya pada Metode addEdge dan bfs, memasukkan logika pemrosesan data untuk tipe data String sebagai berikut.
  
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture21.png?raw=true)
+
 
 d.	Kemudian Run untuk mendapatkan hasil.
 
