@@ -17,6 +17,7 @@ d.	Proses ini akan terus berlanjut sampai semua node yang terhubung dengan node 
 Oleh karena itu, node-node 8, 6, dan 7 akan ditemukan dan diproses dengan mengikuti aturan BFS.
 
 Codingan 
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture3.png?raw=true)
 
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture4.png?raw=true)
@@ -28,6 +29,7 @@ Codingan
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture7.png?raw=true)
 
 Hasil Program
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture1.png?raw=true)
 
 Berdasarkan hasil di atas, BFS dimulai dari simpul (node) ke-3 (n3). Mari kita lihat langkah-langkahnya untuk mencapai node ke-8, 6, dan 7:
@@ -44,10 +46,12 @@ Berdasarkan hasil di atas, BFS dimulai dari simpul (node) ke-3 (n3). Mari kita l
 
 2.	Ubahlah method static void main sehingga bentuk tree seperti Gambar 4.5 dapat dibentuk. Kemudian tentukan bagaimana algoritma BFS dapat menemukan node 5!
 Membuat tree seperti pada gambar 4.5 dengan mengubah method static void main, seperti berikut ini.
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture2.png?raw=true) 
 Gambar 4.5 Tree 1
 
- Codingan
+Codingan
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture8.png?raw=true)
 
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture9.png?raw=true)
@@ -59,6 +63,7 @@ Gambar 4.5 Tree 1
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture12.png?raw=true)
 
 Hasil Program
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture13.png?raw=true)
 
 Hasil tersebut mengkonfirmasi kesesuaian hasil tree yang dihasilkan oleh program dengan gambar 4.5. 
@@ -73,15 +78,18 @@ Oleh karena itu, node 5 akan ditemukan dan diproses sesuai dengan ketentuan algo
 
 3.	Ubahlah method static void main sehingga bentuk tree seperti Gambar 4.6 dapat dibentuk. Kemudian tentukan bagaimana algoritma BFS dapat menemukan node 9. 
 Membuat tree seperti pada gambar 4.6 dengan mengubah method static void main, seperti berikut ini!
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture14.png?raw=true) 
 Gambar 4.6 Tree 2
 
 Codingan
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture15.png?raw=true)
 
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture16.png?raw=true)
 
 Hasil Program
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture17.png?raw=true)
  
 Hasil tersebut sudah menunjukkan bahwa hasil tree yg diperoleh dari program sudah sesuai dengan gambar 4.6. 
@@ -96,17 +104,22 @@ Dengan demikian, pada akhir proses BFS, node 9 akan ditemukan dan diproses sesua
 
 4.	Ubahlah kode program di atas sehingga bentuk tree seperti Gambar 4.7 dapat dibentuk. Kemudian tentukan bagaimana algoritma BFS dapat menemukan node C.
 Membuat tree seperti pada gambar 4.7 yang akan dilakukan beberapa perubahan pada kode program.
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture18.png?raw=true) 
 Gambar 4.7 Tree 3
 
 a.	Pada kelas Node, untuk dapat menerima huruf maka harus mengganti tipe data variabel ’data’ dari yang awalnya ’int’ menjadi ’String’.
+
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture19.png?raw=true)
 b.	Kemudian pada Metode main, memasukkan nilai node dengan tipe data string sebagai berikut.
+ 
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture20.png?raw=true)
 c.	Selanjutnya pada Metode addEdge dan bfs, memasukkan logika pemrosesan data untuk tipe data String sebagai berikut.
+ 
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture21.png?raw=true)
 d.	Kemudian Run untuk mendapatkan hasil.
 Hasil Program
+ 
  ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture22.png?raw=true)
 
 Hasil tersebut sudah menunjukkan bahwa hasil tree yg diperoleh dari program sudah sesuai dengan gambar 4.7. 
