@@ -18,9 +18,13 @@ Oleh karena itu, node-node 8, 6, dan 7 akan ditemukan dan diproses dengan mengik
 
 Codingan 
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture3.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture4.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture5.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture6.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture7.png?raw=true)
 
 Hasil Program
@@ -45,9 +49,13 @@ Gambar 4.5 Tree 1
 
  Codingan
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture8.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture9.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture10.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture11.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture12.png?raw=true)
 
 Hasil Program
@@ -70,6 +78,7 @@ Gambar 4.6 Tree 2
 
 Codingan
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture15.png?raw=true)
+
 ![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture16.png?raw=true)
 
 Hasil Program
