@@ -7,3 +7,4 @@ Tujuannya adalah untuk membuat baris horizontal, vertikal, atau diagonal yang te
 Pemain yang berhasil menempatkan tiga tanda mereka di baris horisontal, vertikal, atau diagonal memenangkan pertandingan.
 
 Melalui file codingan yang telah dibuat dan saya lampirkan. dibawah ini munculan output gambar nya yang dimana kita bisa memainkan permainan tic tac toe.
+![alt text](https://github.com/nandaprld/nandaprld.github.io/blob/main/Picture3.png?raw=true)
