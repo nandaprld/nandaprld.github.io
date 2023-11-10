@@ -31,19 +31,8 @@ Pemain-pemain bergantian menempatkan tanda mereka pada sel-sel kosong.
 Menang:
 Pemain yang berhasil menciptakan baris horizontal, vertikal, atau diagonal dari tiga tanda miliknya berturut-turut memenangkan permainan.
 
-Contoh kemenangan:
-X | O | X
-O | X | O
-X |   | O
-
 Seri (Imbang):
 Jika seluruh papan terisi tanpa ada pemenang, permainan dianggap seri atau imbang.
-Contoh papan penuh:
-X | O | X
----------
-X | O | O
----------
-O | X | X
 
 Strategi Dasar:
 Pemain pertama (biasanya X) memiliki keuntungan jika dia bermain secara optimal.
